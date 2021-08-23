@@ -1,7 +1,7 @@
 ### Hi there 👋
-#### I'm a Computer Engineering student, looking for new things to learn 🌱
-#### Currently I'm concentrating on learning subjects in artificial intelligence.
-#### I'm also adding my old repositories to github over time.
+#### I'm a Computer Engineering student, always looking up for new things to learn 🌱
+#### Currently I'm concentrating on learning subjects about artificial intelligence.
+#### I will also add my old repositories to github over time.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=smhash78.smhash78)
 
